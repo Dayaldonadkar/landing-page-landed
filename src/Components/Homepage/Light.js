@@ -2,9 +2,9 @@ import React from "react";
 
 const Light = () => {
   return (
-    <div className="flex justify-center">
-      <div className="w-4/6 flex justify-between items-center ">
-        <div className="w-1/2 space-y-24">
+    <div className="flex justify-center pt-72">
+      <div className="lg:w-4/6 flex flex-col lg:flex-row justify-between items-center px-10">
+        <div className="lg:w-1/2 space-y-24">
           <div className="space-y-10">
             <h1 className="font-medium text-4xl text-[#091133]">
               Light,Fast & Powerful

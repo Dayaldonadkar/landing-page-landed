@@ -3,12 +3,12 @@ import React from "react";
 const Light2 = (props) => {
   return (
     <div className="flex justify-center">
-      <div className="w-4/6 flex justify-center items-center ">
-        <div className="space-y-24 flex justify-between items-center">
-          <div>
+      <div className="lg:w-4/6 w-auto flex justify-center items-center px-10">
+        <div className="space-y-24 flex flex-col lg:flex-row justify-between items-center ">
+          <div className="">
             <img src={props.img} />
           </div>
-          <div className="space-y-10 w-5/12">
+          <div className="space-y-10 lg:w-1/2">
             <h1 className="font-medium text-4xl text-[#091133]">
               Light,Fast & Powerful
             </h1>

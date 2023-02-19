@@ -9,7 +9,7 @@ import InstagramIcon from "@mui/icons-material/Instagram";
 const Footer = () => {
   return (
     <div className="flex justify-center pt-16 bg-[#E7ECFF]">
-      <div className="w-4/6">
+      <div className="lg:w-4/6">
         <div className="flex justify-between  border-b border-gray-500 pb-10 items-center ">
           <p className="text-sm text-[#939EA4] flex items-center">
             @2022 Landie

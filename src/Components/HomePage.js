@@ -11,7 +11,7 @@ const HomePage = () => {
       <Navbar />
       <Introduction />
       <Light />
-      <div className="space-y-60 pt-32 pb-48">
+      <div className="space-y-20 pt-32 py-48">
         <Light2 img={"./Pretty.png"} />
         <Light2 img={"./GirlBoy.png"} />
         <Light2 img={"./Standgirl.png"} />

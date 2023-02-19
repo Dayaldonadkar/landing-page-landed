@@ -2,7 +2,7 @@ import React from "react";
 
 const Price = () => {
   return (
-    <div className="flex flex-col items-center text-center bg-[#FFFBF5] space-y-14 pt-60 pb-44 ">
+    <div className="flex flex-col items-center text-center bg-[#FFFBF5] space-y-14 pt-60 pb-44 px-3">
       <div className="space-y-4">
         <h1 className="text-[#091133] text-4xl font-medium">
           A Price to suit Everyone
