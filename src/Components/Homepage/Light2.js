@@ -4,7 +4,7 @@ const Light2 = (props) => {
   return (
     <div className="flex justify-center">
       <div className="lg:w-4/6 w-auto flex justify-center items-center px-10">
-        <div className="space-y-24 flex flex-col lg:flex-row justify-between items-center ">
+        <div className="space-y-24 flex flex-col lg:flex-row justify-between items-center lg:my-10 lg:space-x-10">
           <div className="">
             <img src={props.img} />
           </div>
